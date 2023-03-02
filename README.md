@@ -5,3 +5,5 @@ The fast-forward merge is a merge that occurs when the branch being merged has n
 Conflict
 If a new paragraph is added to conflict branch and a new paragrpah is added to develop before the merge on the same line, it will create a conflict.
 If a new paragraph is added to conlict branch and a new paragrpah is added to develop before the merge and they are not on the same line, it will not cause a conflict.
+![image](https://user-images.githubusercontent.com/125409693/222578632-0c69c8d1-c7e6-4640-bc34-0ba7787d034a.png)
+
